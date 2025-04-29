@@ -51,7 +51,7 @@ https://github.com/IslamTaleb11/klinik-vuejs
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/bmarwein/klinik-backend-laravel-api.git
-cd klinik-laravel-api 
+cd klinik-backend-laravel-api 
 ```
 
 ### 2️⃣ Install Dependencies
